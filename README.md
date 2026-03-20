@@ -102,7 +102,7 @@ It is **not affiliated with or endorsed by Salesforce, Microsoft, SAP, or Oracle
 ## 👩‍💻 Author
 
 **Reaishma N**  
-📧 reaishma2@gmail.com  
+📧 hayagreevar9018@gmail.com 
 🌐 Portfolio: https://reaishma.github.io/Portfolio-website/
 
 ---
